@@ -25,3 +25,24 @@ A fast and reliable facial recognition that can accurately detect gender, age an
 
 ### Data Report
 A strong real-time analyzing algorithm to export viewer report and increase campaign efficiency.
+
+## How To Install Food Online Ordering App For Restaurants
+1. Download the latest version at [Gigasource](https://gigasource.io/food-online-ordering/)
+2. [Installation guide](https://gigasource.io/food-online-ordering/)
+
+## Free Software On Github
+## How To Install Food Online Ordering App For Restaurants
+1. Download the latest version at [Gigasource](https://gigasource.io/food-online-ordering/)
+2. [Installation guide](https://gigasource.io/food-online-ordering/)
+
+## Free Software On Github
+1. [Cloud based Digital Signage Software](https://gigasource.io/cloud-signage/)
+2. [Facial Recognition Attendance System](https://gigasource.io/face-attendance/)
+3. [POS For Restaurant](https://gigasource.io/pos-restaurant/)
+4. [POS For Retail](https://gigasource.io/pos-retail/)
+5. [Face Recognition In Casino](https://gigasource.io/facial-recognition-in-casinos/)
+6. [Food Online Ordering System](https://gigasource.io/food-online-ordering/)
+7. [Facial Recognition In School](https://gigasource.io/facial-recognition-in-school/)
+8. [Facial Recognition In Airport](https://gigasource.io/biometric-facial-recognition-in-airports/)
+9. [Facial Recognition In Retail](https://gigasource.io/facial-recognition-in-retail-stores/)
+10. [Face Recognition Software Company](https://gigasource.io/face-recognition-software-company/)
