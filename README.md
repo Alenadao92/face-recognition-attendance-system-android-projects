@@ -5,6 +5,7 @@ METAFORMAT Digital Advertising GmbH
 Data-Driven Digital Out-Of-Home Advertising 
 
 ## Project Description
+![face attendance project](https://gigasource.b-cdn.net/wp-content/uploads/2020/03/hp-case2-1024x838.png)
 
 Description​
 METAFORMAT is a German start-up specializing in customized digital outdoor advertising solution. Their latest product, Metaposter, is a SaaS (Software as a Service) platform which enables brands, agencies and media owners to set up intelligent digital out-of-home campaigns with embedded face and movement tracking algorithm. Data of ad viewers including gender, age and view time are recorded, and reports can be conducted in real time. This project is a tough challenge for our team since its complexity comes from multiple aspects. 
